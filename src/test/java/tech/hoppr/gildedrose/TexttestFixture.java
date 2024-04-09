@@ -1,4 +1,4 @@
-package tech.hoppr;
+package tech.hoppr.gildedrose;
 
 public class TexttestFixture {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package tech.hoppr;
+package tech.hoppr.gildedrose;
 
 public class GildedRose {
 
